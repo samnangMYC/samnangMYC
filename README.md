@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **A Banking Application**
+- 🔭 Currently working on: **Openource Core Banking Application**
 - 🌱 Learning: **DevOps & Cloud Infrastructure**
 - 🤝 Open to collaborate on: **Open Source Projects**
 - 🎯 Passionate about building **secure, scalable, user-centric applications**
