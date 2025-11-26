@@ -13,6 +13,7 @@
 - 🌱 Learning: **DevOps & Cloud Infrastructure**
 - 🤝 Open to collaborate on: **Open Source Projects**
 - 🎯 Passionate about building **secure, scalable, user-centric applications**
+- 🧩 Interested in **Event-Driven Design Architecture** for building highly decoupled, reactive, and real-time systems
 
 ---
 
