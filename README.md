@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **Cambodia Apsor Service Management System**
+- 🔭 Currently working on: **Core Banking Management System**
 - 🌱 Learning: **DevOps & Cloud Infrastructure**
 - 🤝 Open to collaborate on: **Open Source Projects**
 - 🎯 Passionate about building **secure, scalable, user-centric applications**
