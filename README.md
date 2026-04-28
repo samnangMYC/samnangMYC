@@ -1,78 +1,95 @@
-<!-- Modern Gradient Header -->
-<h1 align="center">👋 Hey, I'm <strong>Khon Samnang</strong></h1>
-<h3 align="center">Full-Stack Developer | Building Scalable Web & Mobile Solutions</h3>
+<!-- Hero Section -->
+<h1 align="center">👋 Khon Samnang</h1>
+<h3 align="center">Full-Stack Engineer • Scalable Systems • Cloud & Distributed Architecture</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samnangmyc&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <a href="https://khonsamnang.space/" target="_blank">
+    🌐 Portfolio
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samnangmyc&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on: **Core Banking Management System**
-- 🌱 Learning: **DevOps & Cloud Infrastructure**
-- 🤝 Open to collaborate on: **Open Source Projects**
-- 🎯 Passionate about building **secure, scalable, user-centric applications**
-- 🧩 Interested in **Event-Driven Design Architecture** for building highly decoupled, reactive, and real-time systems
+## 🧠 Engineering Profile
+I design and build **high-performance, scalable systems** across web and mobile platforms.  
+My focus is on **clean architecture, system reliability, and real-world scalability**.
+
+- 🏦 Building: **Core Banking Management System**
+- ⚙️ Exploring: **DevOps, Cloud-Native Systems, Distributed Architecture**
+- 🧩 Architecture Focus: **Event-Driven Systems & Microservices**
+- 🔐 Strong interest in **security, data integrity, and system resilience**
+- 🤝 Open to **serious open-source & system-level collaborations**
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/khon-samnang" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+## 🌍 Connect
+<p>
+<a href="https://linkedin.com/in/khon-samnang" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://khonsamnang.space/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=web" height="40"/>
 </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-#### **Backend & Server**
+### ⚙️ Backend Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="45" />
-  <img src="https://skillicons.dev/icons?i=spring" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="45" title="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
-  <img src="https://skillicons.dev/icons?i=redis" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" height="42"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="42"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="42"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="42"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="42"/>
 </p>
 
-#### **Frontend & Mobile**
+### 🎨 Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="45" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" />
-  <img src="https://skillicons.dev/icons?i=angular" height="45" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" height="42"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="42"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42"/>
+  <img src="https://skillicons.dev/icons?i=flutter" height="42"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="42"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="42"/>
 </p>
 
-#### **DevOps & Tools**
+### ☁️ DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" height="45" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" height="42"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="42"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="42"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="42"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="42"/>
+  <img src="https://skillicons.dev/icons?i=git" height="42"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-<a href="https://github.com/samnangmyc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samnangmyc&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samnangmyc&theme=tokyonight&hide_border=true" />
-</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samnangmyc&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=samnangmyc&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-✨ *Thanks for visiting! Feel free to connect or collaborate.*  
+## ⚡ Engineering Mindset
+> “Build systems that scale, not just features that work.”
+
+- Prefer **modular, decoupled architectures**
+- Optimize for **performance & maintainability**
+- Design with **failure, scaling, and observability in mind**
+
+---
+
+<p align="center">
+✨ Open to collaboration on impactful systems & real-world scalable products
+</p>
