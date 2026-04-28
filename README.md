@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Profile%20Views&query=value&url=https://komarev.com/ghpvc/?username=samnangmyc&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=samnangmyc" 
     alt="profile views"
   />
 </p>
